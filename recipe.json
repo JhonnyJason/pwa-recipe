@@ -16,8 +16,8 @@
         ["submodule"],
         ["create", "merge", "use"],
         {
-            "create": ["sources", "*"],
-            "merge": ["https://github.com/JhonnyJason/website-sample-sources", "*"],
+            "create": ["uisources"],
+            "merge": ["*"],
             "use": ["*"]
         }
     ],
